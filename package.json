@@ -1,0 +1,21 @@
+{
+  "name": "andela-talent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/two.js",
+  "scripts": {
+    "start": "nodemon",
+    "q1": "node src/one.js",
+    "q2": "node src/two.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
