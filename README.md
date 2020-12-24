@@ -10,7 +10,6 @@ My submission for the andela talent network hackerrank test
 - [Contributing](#contributing)
 - [License](#license)
 - [About Me](#about-me)
-- [Create React App](#create-react-app)
 
 ## Quick Start
 
