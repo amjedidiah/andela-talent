@@ -1,5 +1,6 @@
 # andela talent network assessment test
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a5715cbc897a4d41a8f5a144717d0a3f)](https://app.codacy.com/gh/amjedidiah/andela-talent?utm_source=github.com&utm_medium=referral&utm_content=amjedidiah/andela-talent&utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5905f9a2b33f4824ac182d11a24ffd07)](https://app.codacy.com/gh/amjedidiah/myreads?utm_source=github.com&utm_medium=referral&utm_content=amjedidiah/myreads&utm_campaign=Badge_Grade)
 
 My submission for the andela talent network hackerrank test
