@@ -5,6 +5,7 @@
   "main": "src/two.js",
   "scripts": {
     "start": "nodemon",
+    "sample": "node src/sample.js",
     "q1": "node src/one.js",
     "q2": "node src/two.js"
   },

@@ -1,6 +1,6 @@
 # andela talent network assessment test
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2121e573d77d4576b953981b09addb16)](https://www.codacy.com/gh/amjedidiah/andela-talent/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amjedidiah/andela-talent&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2121e573d77d4576b953981b09addb16)](https://www.codacy.com/gh/amjedidiah/andela-talent/dashboard?utm_source=github.com&utm_medium=referral&utm_content=amjedidiah/andela-talent&utm_campaign=Badge_Grade)
 
 My submission for the andela talent network hackerrank test
 
@@ -27,6 +27,12 @@ yarn install
 
 #### Running The Functions
 
+To run the solution for the sample question, from the command line run:
+
+```bash
+yarn run sample
+```
+
 To run the solution for question 1, from the command line run:
 
 ```bash
@@ -38,6 +44,10 @@ To run the solution for question 2, from the command line run:
 ```bash
 yarn run q2
 ```
+
+#### JS Doc
+
+To view information about the functions used in each solution, open [this file](out/index.html) in the browser
 
 ## Contributing
 
